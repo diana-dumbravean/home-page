@@ -1,0 +1,80 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+/*nav*/
+
+a{
+    color: #1D3557;
+}
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.nav-link {
+    font-size: 1.1rem;
+    font-weight: 400;  
+}
+.hero-content {
+    margin-top: 4rem;
+}
+.hero-content h1{
+    font-weight: 900;
+    font-size: 3.5rem;
+}
+.hero-content h3{
+    font-weight: 700;
+}
+.social-icons-hero div {
+    border: 1px solid #2C363F;
+    border-radius: 50%;
+}
+
+/*About*/
+
+.section-heading{
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+.btn-main{
+    background-color: #1D3557;
+    color: #A8DADC;
+    font-size: 1.3rem;
+}
+
+/*Services*/
+
+.service{
+    background-color: #F1FAEE;
+    border-radius: 1rem;
+}
+.service i{
+    font-size: 2rem;
+}
+
+.slider {
+    max-height: 300px;
+}
+
+/*Contact*/
+
+.contact input,
+.contact textarea{
+    padding: 0.5rem 0.2rem;
+    font-size: 1.3rem;
+    width: 100%;
+}
+
+.contact label{
+    color: #a8dadc;
+    font-size: 1.2rem;
+    font-weight: 700;
+    
+}
+
+footer {
+    float: right;
+}
